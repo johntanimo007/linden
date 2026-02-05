@@ -6,7 +6,7 @@ Linden AI Assurance is a pioneering concept for standardized safety auditing and
 
 ### Live Demo
 View the full concept page here:  
-🌐 **[https://yourusername.github.io/linden-assurance/](https://yourusername.github.io/linden-assurance/)**  
+🌐 **[https://johntanimo007.github.io/linden-assurance/](https://johntanimo007.github.io/linden-assurance/)**  
 *(Replace with your actual GitHub Pages URL once deployed)*
 
 ### Core Value Proposition
@@ -22,7 +22,7 @@ View the full concept page here:
 - "Hallucination Clause" indemnification up to policy limits.
 
 ### Intellectual Property Notice
-**This repository and all described concepts, logic engines, stress test methodologies, auditing processes, and policy frameworks are the exclusive intellectual property of Jay (creator of Linden AI Assurance).**  
+**This repository and all described concepts, logic engines, stress test methodologies, auditing processes, and policy frameworks are the exclusive intellectual property of John Williams (creator of Linden AI Assurance).**  
 Unauthorized replication, reverse-engineering, or commercial use is strictly prohibited. Provisional patent application in process. All rights reserved.  
 For licensing, collaboration, or investment inquiries, contact via LinkedIn or email.
 
