@@ -8,7 +8,7 @@ Linden AI Assurance is a pioneering concept for standardized safety auditing and
 
 ### Live Demo
 View the full concept page here:  
-🌐 **[https://johntanimo007.github.io/linden-assurance/](https://johntanimo007.github.io/linden-assurance/)**  
+🌐 **[https://johntanimo007.github.io/linden1.01/](https://johntanimo007.github.io/linden1.01/)**  
 *(Replace with your actual GitHub Pages URL once deployed)*
 
 ### Core Value Proposition
