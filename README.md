@@ -1,6 +1,8 @@
 # Linden AI Assurance
 
-**Patent Pending • Deterministic AI Safety Rating & Insurance Platform**
+![Linden Assurance Logo](linden-tree-logo.png)
+
+**Patent Pending • Deterministic AI Safety Rating & Insurance**
 
 Linden AI Assurance is a pioneering concept for standardized safety auditing and liability insurance for AI agents and logic engines. In an era where AI hallucinations and logic breaks could lead to massive financial/legal risks, Linden provides a middleware API that runs rigorous, binary deterministic stress tests (10,000+ adversarial scenarios) to achieve **99.9% accuracy** — far surpassing the industry’s typical 95%.
 
