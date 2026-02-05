@@ -30,7 +30,7 @@ For licensing, collaboration, or investment inquiries, contact via LinkedIn or e
 This is a public concept showcase to demonstrate the Linden vision, attract partners/investors, and build visibility in the AI safety/InsurTech space. The detailed implementation remains proprietary/offline.
 
 ### Next Steps / Get Involved
-- Interested in AI liability solutions? Reach out!
+- Interested in AI liability solutions? Reach out to lindenassurance@outlook.com.
 - Investors: DM on LinkedIn for pitch deck and deeper discussion.
 - Feedback welcome on the high-level concept.
 
