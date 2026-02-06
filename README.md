@@ -1,35 +1,28 @@
-# Project Name
+# Linden
 
-Short catchy tagline / one-sentence description  
-(e.g. "Holding Ai to the highest standard, the Linden Standard.")
+**Holding AI to the highest standard, the Linden Standard.**
 
-[![GitHub license](https://img.shields.io/github/license/johntanimo007/yourrepo.svg)](https://github.com/johntanimo007/yourrepo/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/johntanimo007/yourrepo.svg?style=social&label=Star)](https://github.com/johntanimo007/yourrepo)
-[![npm version](https://badge.fury.io/js/your-package.svg)](https://badge.fury.io/js/your-package)   <!-- if it's on npm -->
-![CI](https://github.com/johntanimo007/yourrepo/workflows/CI/badge.svg)   <!-- if you have GitHub Actions -->
+A blazing-fast, zero-dependency CLI tool that audits, evaluates, and enforces quality standards on AI-generated outputs — completely offline and edge-first.
 
-## ✨ Highlights / Why this project?
+![Linden Demo](https://via.placeholder.com/800x400/1e1e2e/89b4fa?text=Linden+CLI+Demo+—+Coming+Soon)  
+*(Add your real screenshot or GIF here — people decide in \~3 seconds!)*
 
-- Blazing fast ⚡ (under 50 ms cold start)
-- Zero dependencies
-- Works offline / edge-first
-- Beautiful CLI output with colors & spinners
-- MIT licensed – do whatever you want
+Live demo: (coming soon — Vercel/edge deployment)  
+Video walkthrough: (coming soon — YouTube)
 
-## Screenshot / Demo (very important!)
+## ✨ Highlights / Why Linden?
 
-Put your best visual here — people decide in \~3 seconds whether to keep reading.
+- ⚡ **Blazing fast** — under 50 ms cold start (pure Rust/Go/TS + minimal runtime)
+- 🚫 **Zero dependencies** — no node_modules hell, single binary or tiny bundle
+- 🌍 **Works offline / edge-first** — no API calls, no cloud dependency
+- 🎨 **Beautiful CLI output** — colors, spinners, clean tables, diff views
+- 📜 **MIT licensed** — do whatever you want
 
-![Demo screenshot or GIF](https://github.com/johntanimo007/yourrepo/raw/main/assets/demo.gif)
-
-Live demo: https://your-awesome-project.vercel.app  
-(Video walkthrough: https://www.youtube.com/watch?v=...)
-
-## Table of Contents (optional but helpful for longer READMEs)
+## Table of Contents
 
 - [Installation](#installation)
 - [Quick Start](#quick-start)
-- [Usage / Examples](#usage)
+- [Usage / Examples](#usage--examples)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
@@ -37,15 +30,11 @@ Live demo: https://your-awesome-project.vercel.app
 ## Installation
 
 ```bash
-# Via npm (most common)
-npm install your-package-name
+# Option 1: Install via npm (once published)
+npm install -g linden
 
-# Or yarn / pnpm / bun
-yarn add your-package-name
-pnpm add your-package-name
-bun add your-package-name
+# Option 2: Install via Bun (recommended for speed)
+bun add -g linden
 
-# Or from Git (bleeding edge)
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-npm install
+# Option 3: Download single binary (future release)
+curl -fsSL https://get-linden.sh | bash
