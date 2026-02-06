@@ -2,10 +2,7 @@
 
 **Holding AI to the highest standard, the Linden Standard.**
 
-A blazing-fast, zero-dependency CLI tool that audits, evaluates, and enforces quality standards on AI-generated outputs — completely offline and edge-first.
-
-![Linden Demo](https://via.placeholder.com/800x400/1e1e2e/89b4fa?text=Linden+CLI+Demo+—+Coming+Soon)  
-*(Add your real screenshot or GIF here — people decide in \~3 seconds!)*
+A blazing-fast, zero-dependency CLI tool that audits, evaluates, and enforces quality standards on AI-generated outputs — completely offline 
 
 Live demo: (coming soon — Vercel/edge deployment)  
 Video walkthrough: (coming soon — YouTube)
